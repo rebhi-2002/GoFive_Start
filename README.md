@@ -8,7 +8,7 @@ GoFive Start is a responsive website template that offers a modern and visually 
 
 ## Preview
 
-![Project Design](images/Desktop - 3.png)
+![Project Design](images/Desktop.png)
 
 You can see a live version of the project by following this link: [GoFive Start Website](https://rebhi-2002.github.io/GoFive_Start/)
 
